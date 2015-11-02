@@ -17,6 +17,7 @@ L_ON = -62
 L_OFF = -63
 L_S_MINUS = -61
 L_S_PLUS = -60
+# on = RESET to White Light, off = first time Turn OFF, second time Dim White Light
 ___CHN___ = ["on","off"]
 L_CANNEL_1 = [-59,-58]
 L_CANNEL_2 = [-57,-56]
