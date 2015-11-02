@@ -1,0 +1,25 @@
+## Click
+COLOR = [64, "color code 0-255"]
+OFF = 65
+ON = 66
+S_MINUS = 67
+S_PLUS = 68
+__CHN___ = ["on","off"]
+CANNEL_1 = [69,70]
+CANNEL_2 = [71,72]
+CANNEL_3 = [73,74]
+CANNEL_4 = [75,76]
+MODE = 77
+LIGHT = [78, "2-27"]
+
+## Long Press
+L_ON = -62
+L_OFF = -63
+L_S_MINUS = -61
+L_S_PLUS = -60
+___CHN___ = ["on","off"]
+L_CANNEL_1 = [-59,-58]
+L_CANNEL_2 = [-57,-56]
+L_CANNEL_3 = [-55,-54]
+L_CANNEL_4 = [-53,-52]
+L_MODE = 77
